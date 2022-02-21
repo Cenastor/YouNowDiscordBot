@@ -1,0 +1,1 @@
+`/suggest <suggestion>` - send a suggestion to the suggest channel for voting.

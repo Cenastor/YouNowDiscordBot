@@ -1,0 +1,4 @@
+`/setsubrole @role` - sets sub role. (Partners only)
+`/setmodlog #channel` - sets severs modlog channel.
+`/setwelcome #channel` - sets welcome channel.
+`/setsuggest #channel` - sets suggestion channel

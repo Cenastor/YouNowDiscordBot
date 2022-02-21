@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot-maker-bot",
+  "author": "Robert Borghese",
+  "main": "bot.js",
+  "version": "2.1.1",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "fstorm": "latest",
+    "jimp": "latest",
+    "ffmpeg-static": "latest",
+    "tweetnacl": "latest",
+    "mysql": "latest",
+    "node-cron": "latest",
+    "sequelize": "latest",
+    "quick.db": "latest",
+    "fast-sort": "latest"
+  },
+  "is-music-bot": false
+}

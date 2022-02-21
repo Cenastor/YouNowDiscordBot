@@ -1,0 +1,10 @@
+`/rob @user` - rob another user of there likes.
+`!work` - work and make a income.
+`/transfer @user <amount>` - send liks to another user.
+`!balance` - check your balance.
+`!check @user`- check another users balance.
+`!freespin` - get a freespin once a day.
+`!weekly` - weekly income.
+`/deposit @amount` - deposit to your bank.
+`/withdrawl @amount` - withdrawl from your bank.
+`!resetbal` - reset your balance hand and bank.

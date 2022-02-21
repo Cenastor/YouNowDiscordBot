@@ -1,0 +1,7 @@
+`!usernameupdate` - Updates your user name on younow.
+`!resetlink` - resets your link with younow and the bot.
+`/getcode YouNow Username` - get the code needed to start linking your account.
+`!link` - Checks for your linking code on your profile if there it links your account with the bot.
+`!profile` - Brings up your younow profile on discord.
+`/search YouNow Username` - search another users profile on discord.
+`!getsub` - Gets the sub role for the server if avaliable.

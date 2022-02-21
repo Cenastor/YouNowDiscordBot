@@ -1,0 +1,9 @@
+`/kick @user <reason>` - kick user from server with reason.
+`/timeout @user <time seconds>` - timeout user with time.
+`/ban @user <reason>` - ban user from the server with reason.
+`/clear <amount>` - clear amount of messages in the chaanel command is ran.
+`/pann @role #channel <Title> <Text>` - announcment with role ping.
+`/ann #channel <Title> <Text>` - announcment without role ping.
+`/warn @user <reason>` - warn a user with reason. (Global warning system)
+`/delwarn @user <amount>`- delete a users amount of warnings. (Global warning system)
+`/warnings @user` - see a users amount of warnings and last warning reasson. (Global warning system)
