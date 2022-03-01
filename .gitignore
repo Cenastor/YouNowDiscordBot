@@ -1,2 +1,9 @@
 data/settings.json
 project.discordbot
+DBM-RAW/
+data\servers.json
+data\serverVars.json
+data\serverSettings.json
+data\players.json
+data\globals.json
+data\globalVars.json
