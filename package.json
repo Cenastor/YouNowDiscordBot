@@ -4,16 +4,24 @@
   "main": "bot.js",
   "version": "2.1.1",
   "dependencies": {
+    "@discordjs/voice": "^0.8.0",
     "discord.js": "^13.6.0",
+    "extend": "^3.0.2",
+    "fast-sort": "latest",
+    "ffmpeg-static": "latest",
     "fstorm": "latest",
     "jimp": "latest",
-    "ffmpeg-static": "latest",
-    "tweetnacl": "latest",
+    "loadavg-windows": "^1.1.1",
     "mysql": "latest",
     "node-cron": "latest",
-    "sequelize": "latest",
+    "prebuild-install": "^7.0.1",
     "quick.db": "latest",
-    "fast-sort": "latest"
+    "request": "^2.88.2",
+    "sequelize": "latest",
+    "tweetnacl": "latest",
+    "valid-url": "^1.0.9",
+    "youtube-dl-exec": "^2.0.7",
+    "ytdl-core": "^4.11.0"
   },
   "is-music-bot": false
 }
