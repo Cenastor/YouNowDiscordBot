@@ -22,6 +22,8 @@ The first ever discord bot to interact with [YouNow](https://younow.com) with th
 - [ ] more economy commands. 
 
 - [ ] Welcome commands. 
+
+- [ ] FAQ/Wiki Pages to help with setting up the bot for your server. 
 </details>
 
 # 
