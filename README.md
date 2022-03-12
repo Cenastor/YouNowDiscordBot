@@ -34,6 +34,8 @@ The first ever discord bot to interact with [YouNow](https://younow.com) with th
 
 # Links:
 
+[Bot Wiki](https://github.com/Cenastor/YouNowDiscordBot/wiki)
+
 [Support Discord Server](https://discord.gg/ByTrv5GVwH)
 
 [Invite Bot](https://discord.com/oauth2/authorize?client_id=929901524199571557&permissions=1249769417975&scope=applications.commands%20bot)
