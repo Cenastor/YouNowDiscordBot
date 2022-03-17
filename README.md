@@ -37,3 +37,7 @@ The first ever discord bot to interact with [YouNow](https://younow.com) with th
 [Invite Bot to your Server! ](https://discord.com/oauth2/authorize?client_id=929901524199571557&permissions=1249769417975&scope=applications.commands%20bot)
 
 [Cenastor on YouNow](https://younow.com/Cenastor)
+
+# Credits
+
+[Ukuluka](https://younow.com/ukuluca) (helping with API) | [PloxHost](https://billing.plox.host/aff.php?aff=57) (Our hosting)
