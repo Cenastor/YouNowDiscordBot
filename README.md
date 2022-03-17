@@ -22,8 +22,6 @@ The first ever discord bot to interact with [YouNow](https://younow.com) with th
 - [ ] more economy commands. 
 
 - [ ] Welcome commands. 
-
-- [ ] FAQ/Wiki Pages to help with setting up the bot for your server. 
 </details>
 
 # 
@@ -34,10 +32,8 @@ The first ever discord bot to interact with [YouNow](https://younow.com) with th
 
 # Links:
 
-[Bot Wiki](https://github.com/Cenastor/YouNowDiscordBot/wiki)
+[Bots Support Discord Server](https://discord.gg/ByTrv5GVwH)
 
-[Support Discord Server](https://discord.gg/ByTrv5GVwH)
-
-[Invite Bot](https://discord.com/oauth2/authorize?client_id=929901524199571557&permissions=1249769417975&scope=applications.commands%20bot)
+[Invite Bot to your Server! ](https://discord.com/oauth2/authorize?client_id=929901524199571557&permissions=1249769417975&scope=applications.commands%20bot)
 
 [Cenastor on YouNow](https://younow.com/Cenastor)
