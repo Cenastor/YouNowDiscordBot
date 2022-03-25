@@ -22,6 +22,8 @@ The first ever discord bot to interact with [YouNow](https://younow.com) with th
 - [ ] more economy commands. 
 
 - [ ] Welcome commands. 
+
+- [ ] Search profile with discord ping
 </details>
 
 # 
