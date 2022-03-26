@@ -1,9 +1,12 @@
 `!premium` - get information about premium.
-`!getpremium` - get premium if you are subbed too Cenastor and have your account linked.
-`/setembedcolor <Choice>` - Sets your embed color to a set color of your choice.
+`!get-premium` - get premium if you are subbed too Cenastor and have your account linked.
+`Auto !getsub` - For partners communites with a premium account
+`/embed-color <Choice>` - Sets your embed color to a set color of your choice.
 `!meme` - random meme command.
 `!fox` - random fox image.
 `!cat` - random cat image.
 `!dog` - random do image.
-`!fact` - random fact.
 `!animal` - random infomation about a animal with picture.
+`!momma-joke` - yo momma jokes.
+`!chuck` - chuck norris jokes.
+`!dad-joke` - dad jokes.

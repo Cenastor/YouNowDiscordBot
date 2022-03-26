@@ -1,0 +1,2 @@
+`/suggest <suggestion>` send a suggestion.
+`/setsuggestion #channel` - set your suggestion channel

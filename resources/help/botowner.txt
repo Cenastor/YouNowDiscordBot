@@ -1,0 +1,19 @@
+`/serverdata` - Gets saved server data
+`/botinfo` -get bot information
+`/setData` - sets member data
+`/delData` - deletes member data
+`!leaveserverid` - leave server with ID
+`/leaveserver` - Leave server with name
+`/setbotmodlog` - set bot mod log channel
+`/memberdata` - get member data
+`/removewarn` - remove warnings of a user
+`/resetuser` - reset a users eco balance
+`/setchatincom <amount>` - set global chat income
+`/addcash` - give Likes
+`/delcash` -take Like
+`!help` - help command
+`/guilds` - list of guild names
+`!npm <command>` - run npm command in console
+`/api <url> <field>` - check api information
+`/restart` - restart the bot
+`/stop` - stop the bot

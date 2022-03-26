@@ -1,0 +1,5 @@
+`/setsupportrole @role`- sets your servers support role
+`/setticketcat #category` - sets the categort tickets are created in.
+`!setup-tickets` - this will setup a role and category for your ticket system you will have to make sure the roles and categorys are wher you want them.
+`/ticket <issue>` - opens a ticket with your issue
+`/ticketbutton <Embed text>` - sets a embed text with a button to allow user to easly open tickets (Premimum users only)

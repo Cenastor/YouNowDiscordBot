@@ -1,1 +1,4 @@
 `/suggest <suggestion>` - send a suggestion to the suggest channel for voting.
+`!support` - returns link to support server.
+`/avatar @user` - get your or another users avatar.
+`/server` - gets server icon in embed
