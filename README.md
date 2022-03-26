@@ -1,6 +1,9 @@
 # YouNowDiscordBot
 
+# Please do not try to host this bot yourself this Github is here to make it easer for collaborators to submit there fixes it is not ment to allow other to host the bot themself and i will not offer support of anykind for self-hosted installs.
+
 The first ever discord bot to interact with [YouNow](https://younow.com) with the ability to show off your profile within discord even search another users profile.
+
 #
 
 <details markdown='1'><summary>Features:</summary>
