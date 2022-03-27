@@ -1,7 +1,16 @@
 {
-    "BotSettings": {
-      "name": "YouNowBot#0601",
-      "version": "2.1.4.03",
-      "creator": "Cenastor#3095"
+    "mainBotSettings": {
+      "botName": "YouNowBot#0601",
+      "botID": "929901524199571557",
+      "botVersion": "2.1.4.03",
+      "botCreator": "Cenastor#3095",
+      "botCreatorID": "146681944485134337"
+    },
+    "betaBotSettings": {
+      "botName": "YouNow Beta#7393",
+      "botID": "931070811341738044",
+      "botVersion": "2.1.4.03",
+      "botCreator": "Cenastor#3095",
+      "botCreatorID": "146681944485134337"
     }
   }
