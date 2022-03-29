@@ -17,6 +17,7 @@
     "node-cron": "latest",
     "prebuild-install": "^7.0.1",
     "quick.db": "latest",
+    "randomatic": "^3.1.1",
     "request": "^2.88.2",
     "sequelize": "latest",
     "tweetnacl": "latest",
