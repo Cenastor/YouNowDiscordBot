@@ -38,7 +38,7 @@ The first ever discord bot to interact with [YouNow](https://younow.com) with th
 
 # Links:
 
-[Changelog](https://github.com/Cenastor/YouNowDiscordBot/wiki/changelog) | [Bots Support Discord Server](https://discord.gg/ByTrv5GVwH) | [Invite Bot to your Server! ](https://discord.com/oauth2/authorize?client_id=929901524199571557&permissions=1249769417975&scope=applications.commands%20bot) | [Cenastor on YouNow](https://younow.com/Cenastor)
+[Changelog](https://github.com/Cenastor/YouNowDiscordBot/wiki/changelog) | [Bots Support Discord Server](https://discord.gg/ByTrv5GVwH) | [Invite Bot to your Server! ](https://discord.com/oauth2/authorize?client_id=929901524199571557&permissions=1644971949559&scope=applications.commands%20bot) | [Cenastor on YouNow](https://younow.com/Cenastor)
 
 # Credits
 
