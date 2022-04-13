@@ -33,8 +33,7 @@ The first ever discord bot to interact with [YouNow](https://younow.com) with th
 
 # Known Bugs
 
-* `!getsub` - Crashing the bot [#1](https://github.com/Cenastor/YouNowDiscordBot/issues/1)
-* `/dis-search` -  sometimes returns json errors instead of error msg I have set. [Issue #6](https://github.com/Cenastor/YouNowDiscordBot/issues/6)
+* Please see [issue tracker](https://github.com/Cenastor/YouNowDiscordBot/issues) 
 
 # Links:
 
